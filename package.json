@@ -1,0 +1,17 @@
+{
+  "name": "youtubemusicdownloader",
+  "version": "1.0.0",
+  "description": "Youtube music downloader",
+  "main": "index.js",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "sanitize-filename": "^1.6.1",
+    "ytdl": "^0.10.2",
+    "ytdl-core": "^0.24.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
